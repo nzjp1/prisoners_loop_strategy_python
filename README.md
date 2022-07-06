@@ -10,3 +10,4 @@ The (clearly maniacle) prison guards say that:
 -If even one prisoner fails to find their box, they are all executed
 -They are allowed to strategise beforehand but must complete the task one-by-one.
 
+This is the script to go with http://analytics.net.nz/2022/07/06/prisoners-looping-strategy-in-python/
