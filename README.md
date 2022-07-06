@@ -1,4 +1,4 @@
-# prisoners loop strategy python
+# Prisoners loop strategy in python
 An implentation of the prisoners loop strategy in python.
 
 Following Veritasium's fantastic video, this is a python interpretation of the prisoner's loop streategy.
